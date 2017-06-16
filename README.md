@@ -1,4 +1,4 @@
-# Code Institute - Stream 1 Project  -  [Link](https://pndrckr.github.io/nest/)
+# Code Institute - Stream 1 Project  -  [Link](https://fatimaestrada.github.io/CI-S1-Project/)
 
 ## Nest - Website for a Wedding decoration company
 
